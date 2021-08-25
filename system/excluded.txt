@@ -1,0 +1,6 @@
+/.snapshots
+/var/lib/docker/
+/var/lib/containers/
+/var/tmp/
+/var/cache/
+/.swap/
